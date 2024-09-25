@@ -12,7 +12,7 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #dfdada;
     
     padding-right: 20%;
 
@@ -79,8 +79,12 @@ body{
     right: 50%; 
     /* justify-content: flex-start; */
 }
+span.prev {
+    margin-top: -263px;
+}
 
 .next{
+    margin-top: -263px;
     justify-content: flex-end;
     position: relative;
     left: 40%;
